@@ -1,6 +1,7 @@
 # Introduction
 This project explores several classification techniques as applied to a bank's marketing campaign data.  The classification goal is to predict whether the client will subscribe a term deposit (variable y). 
-<br> Source: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+<br> Source: https://archive.ics.uci.edu/ml/datasets/bank+marketing <br> <br>
+It's recommended that the viewer read the Jupyter Notebook in NBViewer: https://nbviewer.jupyter.org/github/sgus1318/marketing_propensity/blob/master/Bank_DirectMarketing_Propensity.ipynb
 <br><br>
 # Data Dictionary:
 #### Bank client data:
